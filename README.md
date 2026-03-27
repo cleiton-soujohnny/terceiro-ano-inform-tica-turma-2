@@ -3,4 +3,4 @@ nome: Johnny Alex Alves Marote
 
 curso : informática
 
-descrição:este repositório esta relacionado ao terceiro ano do curso de informática do instituto federal farroupilha
+este arquivo está para testes da area de tópicos emergentes de informárica
